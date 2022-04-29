@@ -15,13 +15,13 @@ export class AppComponent {
     },
     {
       title: 'Snowy Mountain',
-      imageUrl: 'https://picsum.photos/id/108/2000/1333',
+      imageUrl: 'https://picsum.photos/id/1036/2000/1333',
       username: 'mountain lover',
       content: 'Here is a picture of a snowy mountain'
     },
     {
       title: 'Mountain biking',
-      imageUrl: 'https://picsum.photos/id/108/2000/1333',
+      imageUrl: 'https://picsum.photos/id/203/2000/1333',
       username: 'Bike Rider',
       content: 'I did some biking today'
     },
