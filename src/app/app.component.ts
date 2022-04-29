@@ -10,19 +10,19 @@ export class AppComponent {
     {
       title: 'Neat Tree',
       imageUrl: 'https://picsum.photos/id/108/2000/1333',
-      username: 'nature',
+      username: 'Nature',
       content: 'I saw this neat tree today'
     },
     {
       title: 'Snowy Mountain',
       imageUrl: 'https://picsum.photos/id/1036/2000/1333',
-      username: 'mountain lover',
+      username: 'MountainLLover',
       content: 'Here is a picture of a snowy mountain'
     },
     {
       title: 'Mountain biking',
       imageUrl: 'https://picsum.photos/id/203/2000/1333',
-      username: 'Bike Rider',
+      username: 'BikeRider',
       content: 'I did some biking today'
     },
 
